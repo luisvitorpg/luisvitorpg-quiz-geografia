@@ -15,3 +15,7 @@ function true2() {
 function false2() {
     alert("Errou! Na próxima você consegue!");
 }
+
+function teste() {
+    console.log("Apenas um teste")
+}
