@@ -15,3 +15,12 @@ function true2() {
 function false2() {
     alert("Errou! Na próxima você consegue!");
 }
+
+function true3() {
+    alert("Acertou! Você está de parabêns!");
+    window.location = 'pagina4.html';
+}
+
+function false3() {
+    alert("Sinto muito, você vacilou!");
+}
