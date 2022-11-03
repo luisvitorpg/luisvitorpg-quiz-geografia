@@ -1,3 +1,12 @@
+function true4() {
+    alert("Que legal! Você é muito bom!");
+    window.location = 'pagina5.html';
+}
+
+function false4() {
+    alert("Não foi dessa vez!");
+}
+
 function true1() {
     alert("Acertou! Muito bem!");
     window.location = 'pagina2.html';
@@ -23,13 +32,4 @@ function true3() {
 
 function false3() {
     alert("Sinto muito, você vacilou!");
-}
-
-function true4() {
-    alert("Que legal! Você é muito bom!");
-    window.location = 'pagina5.html';
-}
-
-function false4() {
-    alert("Não foi dessa vez!");
 }
