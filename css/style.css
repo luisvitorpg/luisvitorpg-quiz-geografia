@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
 .resp1 {
-    width: 300px;
+    width: 600px;
     height: 600px;
     background-color: aquamarine;
     font-size: small;
 }
 
 .resp2 {
-    width: 300px;
+    width: 600px;
     height: 600px;
     background-color: cornflowerblue;
     font-size: small;
