@@ -34,7 +34,7 @@ function false2() {
 }
 
 function true3() {
-    alert("Acertou! Você está de parabêns!");
+    alert("Acertou! Você está de parabns!");
     window.location = 'pagina4.html';
 }
 
