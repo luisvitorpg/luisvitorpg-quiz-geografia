@@ -47,3 +47,7 @@ function true6() {
     alert("Você foi muito bom!");
     window.location = 'fim.html';
 }
+
+function false6() {
+    alert("Que pena!");
+}
