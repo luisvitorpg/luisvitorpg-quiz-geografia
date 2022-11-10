@@ -42,3 +42,8 @@ function true5() {
 function false5() {
     alert("Não foi dessa vez!");
 }
+
+function true6() {
+    alert("Você foi muito bom!");
+    window.location = 'fim.html';
+}
