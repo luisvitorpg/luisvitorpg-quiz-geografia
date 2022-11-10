@@ -33,3 +33,12 @@ function true3() {
 function false3() {
     alert("Sinto muito, você vacilou!");
 }
+
+function true5() {
+    alert("Você é muito fera!");
+    window.location = 'pagina6.html';
+}
+
+function false5() {
+    alert("Não foi dessa vez!");
+}
